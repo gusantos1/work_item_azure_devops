@@ -28,6 +28,9 @@ OUTPUT:
 ----
 
 ## Contato
+
+Eu sou apaixonado por tecnologia e pelo ecossistema python, atualmente atuando com automação de processos, integração de tecnologias, engenharia e visualização de dados.😉
+
 | Canais                                                       |                         |
 | ------------------------------------------------------------ | ----------------------- |
 | <img src="https://github.com/gusantos1/icons/blob/main/gmail.jpg" width="20" height="20"> | *gusantos.ok@gmail.com* |
