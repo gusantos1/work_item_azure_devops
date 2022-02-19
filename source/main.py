@@ -229,8 +229,3 @@ class Azure:
 
 if __name__ == '__main__':
     devops = Azure(ORGANIZACAO, PROJETO , TOKEN)
-
-    devops.criar_item(
-        titulo='Teste Python', tipo='Atividade', atribuido='Guilherme Silva dos Santos', \
-        tag='Gestão & Conhecimento', squad='Meraki', horas_previstas=12, sprint_atual=False,\
-            descricao='Fui criado pelo Python', pai=3237)
